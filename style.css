@@ -1,0 +1,49 @@
+h3 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Allbtns{
+    display: flex;
+    justify-content: center;
+}
+.Allbtnv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.resetbtnclass{
+    display: flex;
+    border: 2px solid green;
+    width: 50px;
+    border-radius: 5px;
+    background-color: green;
+}
+#add{
+    display: flex;
+    border: 2px solid green;
+    width: 50px;
+    border-radius: 5px;
+    background-color: green;
+    margin: 10px;
+}
+#minus{
+    border: 2px solid green;
+    width: 50px;
+    border-radius: 5px;
+    background-color: green;
+    margin: 10px;
+}
+#reset{
+    border: 2px solid green;
+    width: 50px;
+    border-radius: 5px;
+    background-color: green;
+    margin: 10px 405px 10px;
+}
+#count{
+    border: 2px solid lightsalmon;
+    width: 50px;
+    border-radius: 5px;
+    background-color:lightsalmon;
+}
